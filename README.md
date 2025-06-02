@@ -2,8 +2,8 @@
 
 ![Dede Dikri](img/dd.jpg)
 
-- 🚀 I am currently studying in the Department of Library and Information Science
-- 💻 _I am currently learning **Laravel** Framework_
+
+- 💻 I am currently a student in the Department of Library and Information Science, and I’m learning the **Laravel framework** 🚀
 
 
 ### 📚 Currently Studying
