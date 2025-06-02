@@ -6,9 +6,10 @@
 - 💻 _I am currently learning **Laravel** Framework_
 
 
-##### Currently Studying
+### 📚 Currently Studying
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,php,laravel,java,tailwind,git,=light&perline=4)](https://skillicons.dev)
+[![Studying](https://skillicons.dev/icons?i=html,css,javascript,php,laravel,java,tailwind,git,=light&perline=4)]
+
 
 
 ##### 🤝 Connect with Me
