@@ -8,7 +8,7 @@
 
 ### 📚 Currently Studying
 
-![Studying](https://skillicons.dev/icons?i=html,css,javascript,php,laravel,java,tailwind,git,=light&perline=4)
+[![Study](https://skillicons.dev/icons?i=html,css,javascript,php,laravel,java,tailwind,git,=light&perline=4)](https://www.w3schools.com/)
 
 
 
