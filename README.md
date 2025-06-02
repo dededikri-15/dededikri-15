@@ -1,4 +1,4 @@
-## Hello World! I'm Dede Dikri 👋
+## Hi there 👋, I'm Dede Dikri 🤖
 
 ![Dede Dikri](img/dd.jpg)
 
