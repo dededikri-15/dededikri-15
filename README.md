@@ -16,7 +16,8 @@
 
 
 ##### 📑 Exploring Tech, Code, & More
-![https://medium.com/@dededikri](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dededikri1503)
+
 
 
 
