@@ -4,7 +4,7 @@
 
 - 🎓 **Library & Information Science Student at UIN Maulana Malik Ibrahim Malang**
 - 💻 **Junior Back-End & Full-Stack Developer** | Exploring Web Development, System Architecture & Cloud Infrastructure
-- 🤖 **Passionate about AI, Big Data & Data Mining**
+- ⚡ **Passionate about Software Engineering, Modern Web Tech & Cloud Infrastructure**
 
 ### 📚 Currently Studying
 
