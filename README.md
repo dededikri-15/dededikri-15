@@ -8,7 +8,7 @@
 
 ### 📚 Currently Studying
 
-[![Study](https://skillicons.dev/icons?i=html,css,javascript,php,laravel,java,tailwind,git,=light&perline=4)](https://docs.google.com/document/d/1V3_qaZJN7DfEzqtfL1dbGFUFMETd8rPwLod3rfF881M/edit?hl=ID&tab=t.0)
+[![Study](https://skillicons.dev/icons?i=go,postgres,gcp,php,laravel,java,tailwind,git&=light&perline=4)](https://docs.google.com/document/d/1V3_qaZJN7DfEzqtfL1dbGFUFMETd8rPwLod3rfF881M/edit?hl=ID&tab=t.0)
 
 ### 🤝 Connect With Me
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dededikri_)
