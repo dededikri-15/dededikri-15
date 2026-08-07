@@ -19,10 +19,8 @@
 
 <h2 align="left">🎮 Retro Games & Animations</h2>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dededikri-15/dededikri-15/output/snake.svg" alt="Snake animation" />
-</p>
+<img src="https://raw.githubusercontent.com/dededikri-15/dededikri-15/output/snake.svg" alt="Snake animation" />
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer" width="100%" />
-</p>
+<br />
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Pacman Game Animation" width="100%" />
