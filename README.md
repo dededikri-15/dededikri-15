@@ -1,8 +1,4 @@
-<p align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&width=500&lines=Hi+there!+I'm+Dede+Dikri+👋;Junior+Back-End+%26+Full-Stack+Dev;AI%2C+Big+Data+%26+Data+Mining" alt="Typing SVG" />
-  </a>
-</p>
+# Hi there 👋, I'm Dede Dikri
 
 ![Dede Dikri](img/dd.jpg)
 
