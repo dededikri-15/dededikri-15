@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Dede Dikri
+## Hi there 👋, I'm Dede Dikri
 
 ![Dede Dikri](img/dd.jpg)
 
@@ -17,6 +17,12 @@
 ### 📝 Exploring Tech, Code, & More
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dededikri)
 
-<h2 align="left">Play Games With Me</h2>
+<h2 align="left">🎮 Retro Games & Animations</h2>
 
-<img src="https://raw.githubusercontent.com/dededikri-15/dededikri-15/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dededikri-15/dededikri-15/output/snake.svg" alt="Snake animation" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer" width="100%" />
+</p>
