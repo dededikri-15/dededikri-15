@@ -3,12 +3,12 @@
 ![Dede Dikri](img/dd.jpg)
 
 - 🎓 **Library & Information Science Student at UIN Maulana Malik Ibrahim Malang**
-- 💻 **Junior Back-End Developer & IT Enthusiast** | Exploring Full-Stack Development, Modern Web Tech & System Architecture
-- 🤖 **Passionate about AI & Data**
+- 💻 **Junior Back-End & Full-Stack Developer** | Exploring Web Development, System Architecture & Cloud Infrastructure
+- 🤖 **Passionate about AI, Big Data & Data Mining**
 
 ### 📚 Currently Studying
 
-[![Study](https://skillicons.dev/icons?i=go,postgres,gcp,php,laravel,java,tailwind,git&=light&perline=4)](https://docs.google.com/document/d/1V3_qaZJN7DfEzqtfL1dbGFUFMETd8rPwLod3rfF881M/edit?hl=ID&tab=t.0)
+[![Study](https://skillicons.dev/icons?i=go,postgres,gcp,py,js,docker,php,laravel,java,tailwind,git,mysql&theme=dark&perline=6)](https://docs.google.com/document/d/1V3_qaZJN7DfEzqtfL1dbGFUFMETd8rPwLod3rfF881M/edit?hl=ID&tab=t.0)
 
 ### 🤝 Connect With Me
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dededikri_)
